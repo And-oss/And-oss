@@ -32,10 +32,3 @@ Hi! I'm **ash**, a passionate reverse engineer and cybersecurity enthusiast. Her
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=And-oss&layout=compact&theme=radical)
 
 ---
-
-## Featured Projects
-
-- 🔗 [**Kernel Exploitation 101**](https://github.com/And-oss/kernel-exploitation-101) - A beginner-friendly guide to Linux kernel exploitation.
-- 🔍 [**ReverseMe Challenge Series**](https://github.com/And-oss/reverseme-series) - Custom challenges for budding reverse engineers.
-
----
