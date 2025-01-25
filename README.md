@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm ash!
+### Reverse Engineer | InfoSec Enthusiast | 🎮 CTF Competitor
 
-<!--
-**And-oss/And-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![And-oss's GitHub stats](https://github-readme-stats.vercel.app/api?username=And-oss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=And-oss&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+![GitHub Followers](https://img.shields.io/github/followers/And-oss?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/And-oss?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=And-oss&color=brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies:
+- **Programming**: ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- **Reverse Engineering**: Ghidra, IDA Pro, gdb
+- **CTF**: Web, Reverse
+- **Linux**: Bash Scripting
+
+## 🧩 Featured Projects:
+- ⚙️ [Reverse Engineering Toolkit](https://github.com/And-oss/reverse-toolkit)
