@@ -1,18 +1,41 @@
-# 👋 Hi there, I'm ash!
-### Reverse Engineer | InfoSec Enthusiast | 🎮 CTF Competitor
+# Welcome to My GitHub Profile
 
-![And-oss's GitHub stats](https://github-readme-stats.vercel.app/api?username=And-oss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=And-oss&layout=compact&theme=radical)
+```
+ ________  ________  ___  ___     
+|\   __  \|\   ____\|\  \|\  \    
+\ \  \|\  \ \  \___|\ \  \\\  \   
+ \ \   __  \ \_____  \ \   __  \  
+  \ \  \ \  \|____|\  \ \  \ \  \ 
+   \ \__\ \__\____\_\  \ \__\ \__\
+    \|__|\|__|\_________\|__|\|__|
+             \|_________|                                       
+```
 
-![GitHub Followers](https://img.shields.io/github/followers/And-oss?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/And-oss?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=And-oss&color=brightgreen)
+## About Me
+Hi! I'm **ash**, a passionate reverse engineer and cybersecurity enthusiast. Here's what I do:
 
-## 🛠️ Tools & Technologies:
-- **Programming**: ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-- **Reverse Engineering**: Ghidra, IDA Pro, gdb
-- **CTF**: Web, Reverse
-- **Linux**: Bash Scripting
+- 🛠 **Reverse Engineering**: 1.5 years of experience cracking the toughest code.
+- 🏆 **CTF Player**: PudgeFunClub guys =)
 
-## 🧩 Featured Projects:
-- ⚙️ [Reverse Engineering Toolkit](https://github.com/And-oss/reverse-toolkit)
+---
+
+### Tech Stack
+
+- **Languages**: Python, C/C++, Assembly
+- **Tools**: IDA Pro, Ghidra, gdb
+- **Platforms**: CTFd Challenges
+
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=And-oss&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=And-oss&layout=compact&theme=radical)
+
+---
+
+## Featured Projects
+
+- 🔗 [**Kernel Exploitation 101**](https://github.com/And-oss/kernel-exploitation-101) - A beginner-friendly guide to Linux kernel exploitation.
+- 🔍 [**ReverseMe Challenge Series**](https://github.com/And-oss/reverseme-series) - Custom challenges for budding reverse engineers.
+
+---
